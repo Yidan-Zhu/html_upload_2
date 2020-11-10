@@ -1,0 +1,13 @@
+{
+"companyName": "Company",
+"productName": "Neurons_Activity",
+"dataUrl": "Head-Cell Unity html.data.unityweb",
+"wasmCodeUrl": "Head-Cell Unity html.wasm.code.unityweb",
+"wasmFrameworkUrl": "Head-Cell Unity html.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
